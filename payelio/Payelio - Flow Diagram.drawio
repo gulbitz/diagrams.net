@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T11:38:24.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="6tr9ElLQKNnA-cVR-Dvp" version="21.1.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-04-18T11:38:51.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="PkIQtPmXzvyxfkNMeSAL" version="21.1.8" type="github" pages="6">
   <diagram name="Application Info" id="eCtHLOp702EPCm3Zmekb">
     <mxGraphModel dx="1434" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Admin" id="0-YRnmGhTHhiU12p7d6B">
-    <mxGraphModel dx="363" dy="153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2219" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zwBnW4aFUAbJuR2y5C2y-0" />
         <mxCell id="zwBnW4aFUAbJuR2y5C2y-1" parent="zwBnW4aFUAbJuR2y5C2y-0" />
@@ -315,7 +315,7 @@
           <mxGeometry x="1270" y="1277" width="365" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xCyvtV-fJtySVlK5eup3-35" value="&lt;h1&gt;Settlement Reports&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="zwBnW4aFUAbJuR2y5C2y-1">
-          <mxGeometry x="1650" y="70" width="230" height="40" as="geometry" />
+          <mxGeometry x="1640" y="80" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
