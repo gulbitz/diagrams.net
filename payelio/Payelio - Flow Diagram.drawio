@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T11:55:38.586Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="B6CUpqgytVZYU03AnTnw" version="21.1.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-04-18T11:57:37.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="YngqmEDO59Okzcxz4xnb" version="21.1.8" type="github" pages="6">
   <diagram name="Application Info" id="eCtHLOp702EPCm3Zmekb">
-    <mxGraphModel dx="1434" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="1898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,14 +80,14 @@
         <mxCell id="aAfzdaojPdXzZg_3-wnQ-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Admin&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A3STFPrDPFr-ysEenw41-1" value="&lt;h1&gt;About&lt;/h1&gt;&lt;p&gt;&amp;nbsp;Managing the transactions of a compnay. An internal private SaaS for payment management.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A3STFPrDPFr-ysEenw41-1" value="&lt;h1&gt;About&lt;/h1&gt;&lt;p&gt;&amp;nbsp;Manages the transactions of a company. An internal private SaaS for payment management.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="520" width="340" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Admin" id="0-YRnmGhTHhiU12p7d6B">
-    <mxGraphModel dx="524" dy="222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zwBnW4aFUAbJuR2y5C2y-0" />
         <mxCell id="zwBnW4aFUAbJuR2y5C2y-1" parent="zwBnW4aFUAbJuR2y5C2y-0" />
@@ -351,7 +351,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IlKKH2pTs-tzN3ZcbjNU" name="Whitelabel">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
