@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T08:48:02.016Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="BIkvbzLNzxj9BflClqRx" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T08:49:43.624Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aTrfmESD5DAaH7PcHGWU" version="21.5.1" type="github">
   <diagram name="Page-1" id="z0JQIu96hMM092xXc1qQ">
-    <mxGraphModel dx="2200" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,13 +97,13 @@
         <mxCell id="4kLpUzlzDM-riyMWMIQ2-8" value="Write Note" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="85.79" y="768" width="74.21" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4kLpUzlzDM-riyMWMIQ2-10" value="Choose file" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=80;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-10" value="Choose file" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;whiteSpace=wrap;align=left;spacing=15;spacingLeft=80;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="83" y="918" width="672" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4kLpUzlzDM-riyMWMIQ2-11" value="Upload" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;strokeColor=#CED4DA;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=15;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-10">
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-11" value="Upload" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=15;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-10">
           <mxGeometry width="80" height="40" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4kLpUzlzDM-riyMWMIQ2-12" value="Browse" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;strokeColor=#CED4DA;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=15;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-10">
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-12" value="Browse" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=15;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-10">
           <mxGeometry x="1" width="80" height="40" relative="1" as="geometry">
             <mxPoint x="-80" as="offset" />
           </mxGeometry>
