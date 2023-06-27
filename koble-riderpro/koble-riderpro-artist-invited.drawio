@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T08:30:20.756Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YMiKmtLipfZFYATzjROq" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T08:32:46.025Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="uhhMHOyRIFhgOiefnkFN" version="21.5.1" type="github">
   <diagram name="Page-1" id="z0JQIu96hMM092xXc1qQ">
-    <mxGraphModel dx="1195" dy="646" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,43 +10,23 @@
         <mxCell id="4kLpUzlzDM-riyMWMIQ2-2" value="Header NavBar" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="760" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4kLpUzlzDM-riyMWMIQ2-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="230" width="370" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="4kLpUzlzDM-riyMWMIQ2-4" value="Welcome to the Larabitz" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="287.5" y="100" width="265" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4kLpUzlzDM-riyMWMIQ2-5" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Larabitz&lt;/strong&gt;&amp;nbsp;is an official Laravel Conference simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="130" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4kLpUzlzDM-riyMWMIQ2-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Submit&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
-          <mxGeometry x="530" y="406" width="80" height="30" as="geometry" />
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-53" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="202" width="680" height="538" as="geometry" />
         </mxCell>
-        <mxCell id="4kLpUzlzDM-riyMWMIQ2-8" value="Write Note" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="236" y="200" width="70" height="30" as="geometry" />
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-26" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-53">
+          <mxGeometry y="31" width="680" height="507" as="geometry" />
         </mxCell>
-        <mxCell id="4kLpUzlzDM-riyMWMIQ2-10" value="Choose file" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=80;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="235" y="350" width="375" height="40" as="geometry" />
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-28" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;Responses&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=18;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-53">
+          <mxGeometry x="3" width="108" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="4kLpUzlzDM-riyMWMIQ2-11" value="Upload" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;strokeColor=#CED4DA;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=15;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-10">
-          <mxGeometry width="80" height="40" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4kLpUzlzDM-riyMWMIQ2-12" value="Browse" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;strokeColor=#CED4DA;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=15;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-10">
-          <mxGeometry x="1" width="80" height="40" relative="1" as="geometry">
-            <mxPoint x="-80" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4kLpUzlzDM-riyMWMIQ2-13" value="Upload Document" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="235" y="320" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4kLpUzlzDM-riyMWMIQ2-26" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="531" width="680" height="507" as="geometry" />
-        </mxCell>
-        <mxCell id="4kLpUzlzDM-riyMWMIQ2-28" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;Responses&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="83" y="500" width="108" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="4kLpUzlzDM-riyMWMIQ2-38" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="345" y="580" width="389" height="93.16999999999996" as="geometry" />
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-38" value="" style="group" vertex="1" connectable="0" parent="4kLpUzlzDM-riyMWMIQ2-53">
+          <mxGeometry x="265" y="80" width="389" height="93.16999999999996" as="geometry" />
         </mxCell>
         <mxCell id="4kLpUzlzDM-riyMWMIQ2-31" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-38">
           <mxGeometry x="359" y="9" width="30" height="30" as="geometry" />
@@ -81,8 +61,8 @@
         <mxCell id="4kLpUzlzDM-riyMWMIQ2-45" value="Artist-Larabitz-Rquirements-02.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-43">
           <mxGeometry x="-20" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4kLpUzlzDM-riyMWMIQ2-39" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="103" y="700" width="387" height="60" as="geometry" />
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-39" value="" style="group" vertex="1" connectable="0" parent="4kLpUzlzDM-riyMWMIQ2-53">
+          <mxGeometry x="23" y="200" width="387" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4kLpUzlzDM-riyMWMIQ2-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-39">
           <mxGeometry y="9" width="30" height="30" as="geometry" />
@@ -90,14 +70,37 @@
         <mxCell id="4kLpUzlzDM-riyMWMIQ2-30" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;Larabitz&lt;/strong&gt;&amp;nbsp;is an official Laravel Conference simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-39">
           <mxGeometry x="47" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4kLpUzlzDM-riyMWMIQ2-51" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="103" y="901" width="387" height="95" as="geometry" />
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-51" value="" style="group" vertex="1" connectable="0" parent="4kLpUzlzDM-riyMWMIQ2-53">
+          <mxGeometry x="23" y="401" width="387" height="95" as="geometry" />
         </mxCell>
         <mxCell id="4kLpUzlzDM-riyMWMIQ2-49" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-51">
           <mxGeometry y="9" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4kLpUzlzDM-riyMWMIQ2-50" value="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#39;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#39;t anything embarrassing hidden in the middle of text." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-51">
           <mxGeometry x="47" width="340" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="83" y="798" width="663.04" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Submit&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="640" y="974" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-8" value="Write Note" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="85.79" y="768" width="74.21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-10" value="Choose file" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=80;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="83" y="918" width="672" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-11" value="Upload" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;strokeColor=#CED4DA;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=15;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-10">
+          <mxGeometry width="80" height="32" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-12" value="Browse" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;strokeColor=#CED4DA;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=15;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-10">
+          <mxGeometry x="1" width="80" height="32" relative="1" as="geometry">
+            <mxPoint x="-80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-13" value="Upload Document" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="83" y="888" width="117" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
