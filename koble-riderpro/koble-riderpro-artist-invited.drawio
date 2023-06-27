@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T08:34:55.606Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dIgvAU31L5fPrAnqiKoD" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T08:41:57.136Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="k1gBj5i0mRr-5TFU6sG4" version="21.5.1" type="github">
   <diagram name="Page-1" id="z0JQIu96hMM092xXc1qQ">
     <mxGraphModel dx="2049" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="250" y="130" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4kLpUzlzDM-riyMWMIQ2-53" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="80" y="202" width="680" height="538" as="geometry" />
+          <mxGeometry x="80" y="199" width="680" height="538" as="geometry" />
         </mxCell>
         <mxCell id="4kLpUzlzDM-riyMWMIQ2-26" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-53">
           <mxGeometry y="31" width="680" height="507" as="geometry" />
@@ -61,15 +61,6 @@
         <mxCell id="4kLpUzlzDM-riyMWMIQ2-45" value="Artist-Larabitz-Rquirements-02.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-43">
           <mxGeometry x="-20" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4kLpUzlzDM-riyMWMIQ2-39" value="" style="group" vertex="1" connectable="0" parent="4kLpUzlzDM-riyMWMIQ2-53">
-          <mxGeometry x="23" y="200" width="387" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4kLpUzlzDM-riyMWMIQ2-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-39">
-          <mxGeometry y="9" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4kLpUzlzDM-riyMWMIQ2-30" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;Larabitz&lt;/strong&gt;&amp;nbsp;is an official Laravel Conference simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-39">
-          <mxGeometry x="47" width="340" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="4kLpUzlzDM-riyMWMIQ2-51" value="" style="group" vertex="1" connectable="0" parent="4kLpUzlzDM-riyMWMIQ2-53">
           <mxGeometry x="23" y="401" width="387" height="95" as="geometry" />
         </mxCell>
@@ -78,6 +69,24 @@
         </mxCell>
         <mxCell id="4kLpUzlzDM-riyMWMIQ2-50" value="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#39;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#39;t anything embarrassing hidden in the middle of text." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-51">
           <mxGeometry x="47" width="340" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-53">
+          <mxGeometry x="23" y="209" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-30" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;Larabitz&lt;/strong&gt;&amp;nbsp;is an official Laravel Conference simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-53">
+          <mxGeometry x="70" y="200" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-56" value="Ahsan Ali Khan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-53">
+          <mxGeometry x="67" y="184" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-57" value="Larry Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-53">
+          <mxGeometry x="530" y="58" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-58" value="Ahsan Ali Khan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-53">
+          <mxGeometry x="68" y="382" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4kLpUzlzDM-riyMWMIQ2-59" value="Larry Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="4kLpUzlzDM-riyMWMIQ2-53">
+          <mxGeometry x="530" y="266" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4kLpUzlzDM-riyMWMIQ2-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="83" y="798" width="663.04" height="80" as="geometry" />
