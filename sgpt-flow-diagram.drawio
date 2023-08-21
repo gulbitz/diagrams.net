@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T10:29:24.373Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.8" etag="_iKJaGQ69r8DDbWe2qPa" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T10:35:09.617Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="z1bfOi8iel51hlmcF2M9" version="21.6.8" type="github">
   <diagram name="Page-1" id="GtU60h7P3xS5F-P468LY">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zfRlQrGx6OEHwk2WJLU5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfRlQrGx6OEHwk2WJLU5-1" target="zfRlQrGx6OEHwk2WJLU5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zfRlQrGx6OEHwk2WJLU5-1" value="Upload Audio to /recordings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zfRlQrGx6OEHwk2WJLU5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfRlQrGx6OEHwk2WJLU5-2" target="zfRlQrGx6OEHwk2WJLU5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zfRlQrGx6OEHwk2WJLU5-2" value="Event" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zfRlQrGx6OEHwk2WJLU5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfRlQrGx6OEHwk2WJLU5-4" target="zfRlQrGx6OEHwk2WJLU5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zfRlQrGx6OEHwk2WJLU5-4" value="Upload recording to AssemblyAi&lt;br&gt;Get webhook url" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zfRlQrGx6OEHwk2WJLU5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfRlQrGx6OEHwk2WJLU5-6" target="zfRlQrGx6OEHwk2WJLU5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zfRlQrGx6OEHwk2WJLU5-6" value="Get the transcript" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zfRlQrGx6OEHwk2WJLU5-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfRlQrGx6OEHwk2WJLU5-8" target="zfRlQrGx6OEHwk2WJLU5-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zfRlQrGx6OEHwk2WJLU5-8" value="Send requests to ChatGPT with transcript and commands" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zfRlQrGx6OEHwk2WJLU5-10" value="Notify User upon successful responses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
