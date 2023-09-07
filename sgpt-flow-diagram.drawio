@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T06:46:21.285Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Md0nsEvKMP0QyGNmP2yU" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T06:49:48.560Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="gnDVwWyKxV-I4hHfpoIB" version="21.7.2" type="github">
   <diagram name="Page-1" id="GtU60h7P3xS5F-P468LY">
     <mxGraphModel dx="880" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,39 +10,34 @@
         <mxCell id="zfRlQrGx6OEHwk2WJLU5-1" value="Upload Audio to /recordings&lt;br&gt;&lt;i&gt;&lt;b&gt;&lt;font color=&quot;#007fff&quot;&gt;RecordingController&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="145" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zfRlQrGx6OEHwk2WJLU5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="zfRlQrGx6OEHwk2WJLU5-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="370" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ItOBTFIYhPyKRcPzj6CO-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfRlQrGx6OEHwk2WJLU5-2" target="ItOBTFIYhPyKRcPzj6CO-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zfRlQrGx6OEHwk2WJLU5-2" value="Event&lt;br&gt;&lt;p&gt;&lt;i&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff8000&quot;&gt;RecordingUploaded&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zfRlQrGx6OEHwk2WJLU5-2" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;Event&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;i&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff8000&quot;&gt;RecordingUploaded&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="145" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zfRlQrGx6OEHwk2WJLU5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zfRlQrGx6OEHwk2WJLU5-4" target="zfRlQrGx6OEHwk2WJLU5-6" edge="1">
+        <mxCell id="ItOBTFIYhPyKRcPzj6CO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zfRlQrGx6OEHwk2WJLU5-4" target="zfRlQrGx6OEHwk2WJLU5-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zfRlQrGx6OEHwk2WJLU5-4" value="Upload recording to AssemblyAi&lt;br&gt;Get webhook url" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="zfRlQrGx6OEHwk2WJLU5-4" value="Handle Webhook&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;font color=&quot;#007fff&quot;&gt;AssemblyAiWebhookController&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="310" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zfRlQrGx6OEHwk2WJLU5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zfRlQrGx6OEHwk2WJLU5-6" target="zfRlQrGx6OEHwk2WJLU5-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zfRlQrGx6OEHwk2WJLU5-6" value="Get the transcript" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zfRlQrGx6OEHwk2WJLU5-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zfRlQrGx6OEHwk2WJLU5-8" target="zfRlQrGx6OEHwk2WJLU5-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zfRlQrGx6OEHwk2WJLU5-8" value="Send requests to ChatGPT with transcript and commands" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zfRlQrGx6OEHwk2WJLU5-10" value="Notify User upon successful responses" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ItOBTFIYhPyKRcPzj6CO-1" value="Listener&lt;br&gt;&lt;p&gt;&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font color=&quot;#00ff00&quot;&gt;ProcessRecording&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Upload recording to AssemblyAi with audio and &lt;font color=&quot;#3399ff&quot;&gt;webhool_url&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Save the &lt;font color=&quot;#3399ff&quot;&gt;transcript_id&lt;/font&gt; in the recording&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ItOBTFIYhPyKRcPzj6CO-1" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;Listener&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font color=&quot;#00ff00&quot;&gt;ProcessRecording&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Upload recording to AssemblyAi with audio and &lt;font color=&quot;#3399ff&quot;&gt;webhool_url&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Save the &lt;font color=&quot;#3399ff&quot;&gt;transcript_id&lt;/font&gt; in the recording&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="120" width="220" height="120" as="geometry" />
         </mxCell>
       </root>
