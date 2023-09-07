@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T06:44:25.853Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Ysv4QAO7yEkMlHjl-IGB" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T06:45:04.512Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="hcvrql92dpdmJzqFNKNl" version="21.7.2" type="github">
   <diagram name="Page-1" id="GtU60h7P3xS5F-P468LY">
     <mxGraphModel dx="880" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
         <mxCell id="zfRlQrGx6OEHwk2WJLU5-10" value="Notify User upon successful responses" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ItOBTFIYhPyKRcPzj6CO-1" value="Listener&lt;br&gt;&lt;p&gt;&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font color=&quot;#00ff00&quot;&gt;ProcessRecording&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Upload recording to AssemblyAi with audio and webhool_url&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Save the transcript_id in the recording&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ItOBTFIYhPyKRcPzj6CO-1" value="Listener&lt;br&gt;&lt;p&gt;&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font color=&quot;#00ff00&quot;&gt;ProcessRecording&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Upload recording to AssemblyAi with audio and &lt;font color=&quot;#3399ff&quot;&gt;webhool_url&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Save the &lt;font color=&quot;#3399ff&quot;&gt;transcript_id&lt;/font&gt; in the recording&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="120" width="220" height="120" as="geometry" />
         </mxCell>
       </root>
