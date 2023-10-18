@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T07:44:02.566Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="6MbfWj1iBBJU_zQ5Dbq4" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T07:49:09.899Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="vGJPg4Xh483wLbCaCQ4m" version="22.0.4" type="github">
   <diagram name="Page-1" id="E49BTuY-lp1kJ3oBSuN0">
     <mxGraphModel dx="1509" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,6 +14,11 @@
         </mxCell>
         <mxCell id="LTUWh_eZhttvngaJoJQH-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTUWh_eZhttvngaJoJQH-1" target="LTUWh_eZhttvngaJoJQH-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTUWh_eZhttvngaJoJQH-23" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="LTUWh_eZhttvngaJoJQH-1" target="LTUWh_eZhttvngaJoJQH-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="775" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LTUWh_eZhttvngaJoJQH-1" value="Twill CMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
@@ -63,6 +68,15 @@
         </mxCell>
         <mxCell id="LTUWh_eZhttvngaJoJQH-20" value="Get Request and send JSON Responses with the data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="370" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LTUWh_eZhttvngaJoJQH-24" value="Add Website" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTUWh_eZhttvngaJoJQH-25" value="https://another-site.com" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;strokeWidth=1;fillColor=default;fontColor=#505050;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="370" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LTUWh_eZhttvngaJoJQH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.482;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTUWh_eZhttvngaJoJQH-24" target="LTUWh_eZhttvngaJoJQH-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
