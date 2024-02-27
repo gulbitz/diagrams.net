@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T06:27:20.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="JYWmEjt9upJm8EClk6p9" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T10:11:30.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="F5yNBAWkPucI37JrhBuz" version="23.1.7" type="github">
   <diagram name="Page-1" id="QKl11aqFRnratIF972Ye">
     <mxGraphModel dx="1103" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -141,6 +141,11 @@
               <mxPoint x="605" y="830" />
               <mxPoint x="605" y="610" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfiHLe1KQ1GddXlXC8Ru-77" value="Access Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nfiHLe1KQ1GddXlXC8Ru-72">
+          <mxGeometry x="0.637" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nfiHLe1KQ1GddXlXC8Ru-69" value="DB API Keys Updated for both the tokens" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
