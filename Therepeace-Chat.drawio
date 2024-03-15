@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T11:10:50.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.2" etag="XPQGFf0mPwqjzKs5D4R3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T09:43:00.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="MOOqTZhk_QHegQqTAEqN" version="24.0.7" type="github">
   <diagram name="Page-1" id="4FlybuvL3qpaX7-e6c55">
-    <mxGraphModel>
+    <mxGraphModel dx="2390" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeColor=#0D89FD;strokeWidth=1;dashed=1;" edge="1" parent="1" source="W-WZgsZXX9LdlaraOoVL-1" target="W-WZgsZXX9LdlaraOoVL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-1" value="&lt;h2&gt;&lt;font face=&quot;Urbanist&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Urbanist&quot;&gt;UI&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-4" value="&lt;h2&gt;&lt;font face=&quot;Urbanist&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Urbanist&quot;&gt;PusherController&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;curved=0;strokeColor=#45e894;strokeWidth=1;dashed=1;" edge="1" parent="1" source="W-WZgsZXX9LdlaraOoVL-4" target="W-WZgsZXX9LdlaraOoVL-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="320" as="sourcePoint" />
+            <mxPoint x="635" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-8" value="&lt;h2&gt;&lt;font face=&quot;Urbanist&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Urbanist&quot;&gt;UI&lt;/font&gt;&lt;/h2&gt;&lt;div&gt;&lt;font face=&quot;Urbanist&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Urbanist&quot;&gt;Instantly Show Message with 1 tick and Send Request to ChatControllet to save chat in DB&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="380" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0d79de;strokeColor=#0d89fd;dashed=1;" edge="1" parent="1" source="W-WZgsZXX9LdlaraOoVL-9" target="W-WZgsZXX9LdlaraOoVL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-9" value="&lt;h2&gt;&lt;font face=&quot;Urbanist&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Urbanist&quot;&gt;PusherController&lt;br&gt;(Store)&lt;/font&gt;&lt;/h2&gt;&lt;div&gt;&lt;font face=&quot;Urbanist&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Urbanist&quot;&gt;Saves Chat in DB, and Passes the request to PusherController&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-11" value="&lt;h1&gt;Broadcast&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeColor=#0D89FD;strokeWidth=1;dashed=1;" edge="1" parent="1" source="W-WZgsZXX9LdlaraOoVL-8" target="W-WZgsZXX9LdlaraOoVL-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="350" as="sourcePoint" />
+            <mxPoint x="640" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#2dfbbd;dashed=1;" edge="1" parent="1" source="W-WZgsZXX9LdlaraOoVL-14" target="W-WZgsZXX9LdlaraOoVL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-14" value="&lt;h2&gt;&lt;font face=&quot;Urbanist&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Urbanist&quot;&gt;PusherController&lt;br&gt;(Broadcast)&lt;/font&gt;&lt;/h2&gt;&lt;div&gt;&lt;font face=&quot;Urbanist&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Urbanist&quot;&gt;Broadcasts Chat and returns response to ChatController back&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="680" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#2dfbbd;dashed=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="W-WZgsZXX9LdlaraOoVL-9" target="W-WZgsZXX9LdlaraOoVL-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="485" as="sourcePoint" />
+            <mxPoint x="200" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeColor=#0D89FD;strokeWidth=1;dashed=1;" edge="1" source="W-WZgsZXX9LdlaraOoVL-20" target="W-WZgsZXX9LdlaraOoVL-21" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-20" value="&lt;h2&gt;&lt;font face=&quot;Urbanist&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Urbanist&quot;&gt;UI&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-21" value="&lt;h2&gt;&lt;font face=&quot;Urbanist&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Urbanist&quot;&gt;PusherController&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="120" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;curved=0;strokeColor=#45e894;strokeWidth=1;dashed=1;" edge="1" source="W-WZgsZXX9LdlaraOoVL-21" target="W-WZgsZXX9LdlaraOoVL-20" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1015" y="320" as="sourcePoint" />
+            <mxPoint x="1515" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-23" value="&lt;h2&gt;&lt;font face=&quot;Urbanist&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Urbanist&quot;&gt;UI&lt;/font&gt;&lt;/h2&gt;&lt;div&gt;&lt;font face=&quot;Urbanist&quot;&gt;Send request to ChatController when chat-sent event triggered&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="380" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-25" value="&lt;h2&gt;&lt;font face=&quot;Urbanist&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Urbanist&quot;&gt;PusherController&lt;br&gt;(Receive)&lt;/font&gt;&lt;/h2&gt;&lt;div&gt;&lt;font face=&quot;Urbanist&quot;&gt;Check if the latest chat is for current user, then update the chat UI&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="380" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-26" value="&lt;h1&gt;Receive&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="40" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeColor=#0D89FD;strokeWidth=1;dashed=1;" edge="1" source="W-WZgsZXX9LdlaraOoVL-23" target="W-WZgsZXX9LdlaraOoVL-25" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="350" as="sourcePoint" />
+            <mxPoint x="1520" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W-WZgsZXX9LdlaraOoVL-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#2dfbbd;dashed=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" source="W-WZgsZXX9LdlaraOoVL-25" target="W-WZgsZXX9LdlaraOoVL-23" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380" y="485" as="sourcePoint" />
+            <mxPoint x="1080" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
